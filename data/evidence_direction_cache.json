@@ -1,0 +1,13 @@
+{
+  "Chronic Pain|||Acupuncture": "Positive",
+  "Chronic Pain|||Aromatherapy": "Positive",
+  "Chronic Pain|||Ayurveda": "Negative",
+  "Chronic Pain|||Cognitive Behavioural Therapy": "Mixed",
+  "Chronic Pain|||Exercise Therapy": "Positive",
+  "Chronic Pain|||Herbal": "Unclear",
+  "Chronic Pain|||Massage": "Positive",
+  "Chronic Pain|||Meditation": "Positive",
+  "Chronic Pain|||Qi Gong": "Positive",
+  "Chronic Pain|||Tai Chi": "Positive",
+  "Chronic Pain|||Yoga": "Positive"
+}
